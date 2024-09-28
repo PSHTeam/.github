@@ -1,4 +1,4 @@
-# PSHTeam 🌟
+# PSHTeam
 
 ![PSHTeam Logo](https://play-lh.googleusercontent.com/HFk_N_CM6lO2A7nlHU6DK3zzbchMT-zuff8VkxOwEvhwJwo5EF2MhCywJ7yPmo-MpRw=w3840-h2160-rw) 
 
@@ -45,5 +45,3 @@ Let's build a better digital future for the Arabic-speaking world together! 🚀
 ![Twitter Follow](https://img.shields.io/twitter/follow/PSHTeam?style=social) ![GitHub stars](https://img.shields.io/github/stars/PSHTeam?style=social)
 
 ---
-
-> Note: Replace "https://path/to/logo.png" with your actual logo URL. Adjust the GitHub and Twitter URLs as per your actual accounts.
