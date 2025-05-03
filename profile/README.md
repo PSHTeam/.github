@@ -69,11 +69,5 @@ Email us at: [pshteam.developers@gmail.com](mailto:pshteam.developers@gmail.com)
 
 ---
 
-## 📊 Stay Connected
-
-![Telegram Follow](https://t.me/psh_team)
-
----
-
 > We don’t build apps to get rich.  
 > We build them to make our users **truly happy**. 😊📱💡
