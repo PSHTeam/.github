@@ -33,10 +33,9 @@ We don’t just build apps — we build **experiences**.
 We’re active on Google Play with apps designed for productivity, learning, and creativity — tailored for users worldwide, with support for the most widely spoken languages.
 
 🔗 **Our Developer Accounts:**
-- [Play Store – Main](https://play.google.com/store/apps/dev?id=5891042408373262711&hl=en)
-- [Play Store – Beta](https://play.google.com/store/apps/details?id=com.psh.time_wise&hl=en)
-- [Play Store – Berlin](https://play.google.com/store/apps/developer?id=FelixTS+GmbH&hl=en)
-
+- [Play Store – Main](https://play.google.com/store/apps/dev?id=6720389365629511093&hl=en)
+- [Play Store – Beta](https://play.google.com/store/apps/dev?id=5891042408373262711&hl=en)
+- [App Store - Main](https://apps.apple.com/de/developer/mohamed-al-kainai/id1738458610?l=en-GB)
 
 ---
 
