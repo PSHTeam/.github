@@ -64,7 +64,7 @@ Are you passionate about building meaningful apps? Let’s work together.
 ## 📬 Contact Us
 
 Have an idea, question, or partnership in mind?  
-Email us at: [pshteam.developers@gmail.com](mailto:contact@pshteam.dev)
+Email us at: [contact@pshteam.dev](mailto:contact@pshteam.dev)
 
 ---
 
